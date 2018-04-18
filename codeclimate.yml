@@ -1,0 +1,7 @@
+plugins:
+  phpcodesniffer:
+    enabled: true
+    config:
+          standard: "PSR1, PSR2"
+          file_extensions: "php,inc,lib"
+          ignore-warnings: true
