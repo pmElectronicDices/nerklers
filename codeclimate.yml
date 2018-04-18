@@ -5,3 +5,5 @@ plugins:
           standard: "PSR1, PSR2"
           file_extensions: "php,inc,lib"
           ignore-warnings: true
+   phpmd:
+      enabled: true
